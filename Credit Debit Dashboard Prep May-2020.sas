@@ -628,3 +628,5 @@ data lpeel.CREDITTRANSDATA1_LP;
 		set WORK.CREDITTRANSDATA;
 	format Age 4.1 Trans_Cnt 8. Trans_Amt dollar12. IntChg_Fee dollar8. ;
 	run;
+
+	test
